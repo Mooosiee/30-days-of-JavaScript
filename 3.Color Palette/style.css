@@ -29,5 +29,6 @@ body{
     border-radius: 3px;
 }
 .item:hover{
-    background-color: #37B7C3;
+    background-color: #000000;
+    color: white;
 }
